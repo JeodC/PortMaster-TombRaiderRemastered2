@@ -13,7 +13,7 @@ source $controlfolder/control.txt
 get_controls
 
 # Variables
-GAMEDIR=/$directory/ports/tombraider4-6
+GAMEDIR="/$directory/windows/tombraider4-6"
 
 # CD and set permissions
 cd $GAMEDIR/data
